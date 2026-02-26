@@ -5,7 +5,7 @@
 ### In-class exercises
 - [HTTP versions](https://github.com/arturomorarioja-ek/SD_System_Integration_F2026/blob/main/Lesson04/01%20HTTP%20versions.md)
 - [HTTP response inspection](https://github.com/arturomorarioja-ek/SD_System_Integration_F2026/blob/main/Lesson04/02%20HTTP%20response%20inspection.md)
-- [REST API assessment](https://github.com/arturomorarioja-ek/SD_System_Integration_F2026/blob/main/Lesson04/05%20REST%20API%20assessment.md)
+- [REST API assessment](https://github.com/arturomorarioja-ek/SD_System_Integration_F2026/blob/main/Lesson04/05%20REST%20API%20assessment.md). Check out the solution explanation
 
 ### Homework
 - Check out the following slide decks in Itslearning:
