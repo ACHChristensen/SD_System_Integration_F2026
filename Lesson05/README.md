@@ -3,9 +3,10 @@
 # Lesson 5 - 6 March
 
 [Download Message Queues.pptx, XML.pptx, TCP/IP.pptx, Message Queues.pptx, SOAP.pptx]: #
+[News: new uchef, new coordinator]: #
 [Rescheduling: Propose 16 Mar]: #
 [Tomas says he will cover message queues practical training]: #
 
-[Exercise solutions: HTTP response inspection app, HTTP server, REST endpoint naming, To Do list, To Do list v2]: #
+[Exercise solutions: HTTP response inspection app (JS+Python), HTTP server, REST endpoint naming, To Do list, To Do list v2]: #
 
 [SOAP slides]: #
