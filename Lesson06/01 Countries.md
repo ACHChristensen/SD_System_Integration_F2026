@@ -3,11 +3,11 @@ Create the following queries in Trevor Blades's [Countries GraphQL API](https://
 
 1. Retrieve the code and name of all continents
 
-2. For the continent with the code "EU", retrieve the name, capital, and currency of all its countries
+2. For the continent with the code `EU`, retrieve the name, capital, and currency of all its countries
 
 3. Add to the previous query the list of languages spoken in each country, including their name in English, their name in the language they give name to, and whether they are written from right to left
 
-4. For the language with the code "en", retrieve the countries where it is spoken and the continent each country belongs to
+4. For the language with the code `en`, retrieve the countries where it is spoken and the continent each country belongs to
 
 5. Repeat the previous query so that it receives the country code as a parameter
 
