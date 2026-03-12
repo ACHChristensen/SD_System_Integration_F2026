@@ -4,7 +4,7 @@
 
 ### In-class exercises
 
-- Practice GraphQL in the following playgrounds:
+- Practice GraphQL client interaction in the following playgrounds:
   - [Moonhighway's Trail Events playground](https://snowtooth.moonhighway.com/)
   - [Moonhighway's Pet Library playground](https://pet-library.moonhighway.com/) 
   - [Hasura's Photo Albums playground](https://cloud.hasura.io/public/graphiql?endpoint=https%3A%2F%2Fgraphqlzero.almansi.me%2Fapi)
