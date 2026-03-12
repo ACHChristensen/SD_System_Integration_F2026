@@ -7,7 +7,6 @@
 
 ### In-class exercises
 
-- [Countries: GraphQL practice](https://github.com/arturomorarioja-ek/SD_System_Integration_F2026/blob/main/Lesson06/01%20Countries.md)
 - Practice GraphQL in the following playgrounds:
   - [Moonhighway's Trail Events playground](https://snowtooth.moonhighway.com/)
   - [Moonhighway's Pet Library playground](https://pet-library.moonhighway.com/) 
@@ -17,9 +16,12 @@
   - [Photo Albums playground](https://graphqlzero.almansi.me/api)
   - [Company playground](https://www.devtoolsdaily.com/graphql/playground/)
   - [Hypgraph's Movies playground](https://hygraph.com/graphql-playground)
+- 
 
 ### Homework
 
 - Check out the **GraphQL** slides
 - Check out the following code samples:
   - [Star Wars: GraphQL API consumption](https://github.com/arturomorarioja/js_graphql_star_wars)
+- Solve the following exercises:
+  - [Countries: GraphQL practice](https://github.com/arturomorarioja-ek/SD_System_Integration_F2026/blob/main/Lesson06/01%20Countries.md)
