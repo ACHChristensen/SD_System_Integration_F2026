@@ -9,7 +9,7 @@
 
 ### In-class exercises
 
-- [Countries](https://github.com/arturomorarioja-ek/SD_System_Integration_F2026/blob/main/Lesson06/01%20Countries.md)
+- [Countries: GraphQL practice](https://github.com/arturomorarioja-ek/SD_System_Integration_F2026/blob/main/Lesson06/01%20Countries.md)
 - Practice GraphQL in the following playgrounds:
   - [Moonhighway's Trail Events playground](https://snowtooth.moonhighway.com/)
   - [Moonhighway's Pet Library playground](https://pet-library.moonhighway.com/) 
