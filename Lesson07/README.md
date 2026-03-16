@@ -28,5 +28,5 @@ The best programming language to Work with gRPC is Go (Golang). If you want to g
 - Finish the [Echo](https://github.com/arturomorarioja-ek/SD_System_Integration_F2026/blob/main/Lesson07/02%20Echo.md) exercise if you did not have enough time in class
 - Solve the following exercises:
   - [Echo with validation](https://github.com/arturomorarioja-ek/SD_System_Integration_F2026/blob/main/Lesson07/03%20Echo%20with%20Validation.md)
-  - [Quiz](https://github.com/arturomorarioja-ek/SD_System_Integration_F2026/blob/main/Lesson07/03%20Echo%20with%20Validation.md)
+  - [Quiz](https://github.com/arturomorarioja-ek/SD_System_Integration_F2026/blob/main/Lesson07/04%20Quiz.md)
 - Start working on the **First Mandatory Assignment**
