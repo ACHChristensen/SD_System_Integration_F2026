@@ -2,4 +2,6 @@
 
 # Lesson 11 - 16 April
 
+[Read in depth about SOAP status code 500]: #
+
 [Show the System Integration Technologies slide as a course recap]: #
