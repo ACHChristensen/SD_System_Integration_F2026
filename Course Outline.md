@@ -44,6 +44,12 @@
     - JSON
     - YAML
 
+**XML**
+- Well-formed XML
+- Namespaces
+- XSD
+- XSL
+
 **TCP/IP**
 - TCP
 - UDP
