@@ -129,6 +129,12 @@
   - SOP
   - Preflight Requests
 
+**API Documentation**
+- OpenAPI
+  - JSON Schema
+  - JSON Pointer
+  - Implementation
+
 **WebSockets** 
 - Constant Polling
 - Long Polling
