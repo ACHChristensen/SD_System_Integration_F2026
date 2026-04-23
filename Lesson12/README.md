@@ -17,9 +17,4 @@
     - It connects to the sample WebSockets server at https://echo.websocket.org/, but you can also use it to connect to the [WS Server](https://github.com/arturomorarioja/py_ws_server)
 
   
-[Show course outline]: #
-[Slides on System Integration Strategies]: #
-
-[Satisfaction questionnaire: https://forms.cloud.microsoft/e/hUnjMVqKEm]: #
-
 [Exam & Exam Project]: #
