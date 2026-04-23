@@ -13,9 +13,9 @@ paths:
     summary: A trail's segments
     parameters:
       - name: trailId
-      in: path
-      required: true
-      schema: {}
+        in: path
+        required: true
+        schema: {}
     get:
       summary: List segments of a trail
       parameters:
