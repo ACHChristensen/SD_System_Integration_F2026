@@ -28,19 +28,19 @@ components:
         type: array
         items:
           $ref: "#/components/schemas/Pixel"
-      Pixel:
-        type: object
-        required:
-          - rgb
-          - on
-        properties:
-          rgb:
-            description: "[r, g, b]"
-            type: array
-            items:
-              type: integer
-          brightness:
-            type: number
-          on:
-            type: boolean
+    Pixel:
+      type: object
+      required:
+        - rgb
+        - on
+      properties:
+        rgb:
+          description: "[r, g, b]"
+          type: array
+          items:
+            type: integer
+        brightness:
+          type: number
+        on:
+          type: boolean
 ```
